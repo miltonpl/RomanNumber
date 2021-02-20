@@ -1,4 +1,5 @@
 enum RomanNumber {
+    //MARK: - Roman Symbools
     static let symbols: [(number: Int, symbol: String)] =
         [(1000, "M"),
          (900, "CM"),
